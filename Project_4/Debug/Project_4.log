@@ -1,0 +1,10 @@
+﻿  Project_4.cpp
+c:\users\bhgtulolle\desktop\school\algorithims and data structures\project_4\project_4\project_4.cpp(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\bhgtulolle\desktop\school\algorithims and data structures\project_4\project_4\project_4.cpp(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\bhgtulolle\desktop\school\algorithims and data structures\project_4\project_4\project_4.cpp(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\bhgtulolle\desktop\school\algorithims and data structures\project_4\project_4\project_4.cpp(307): warning C4018: '<': signed/unsigned mismatch
+c:\users\bhgtulolle\desktop\school\algorithims and data structures\project_4\project_4\project_4.cpp(359): warning C4018: '<': signed/unsigned mismatch
+c:\users\bhgtulolle\desktop\school\algorithims and data structures\project_4\project_4\project_4.cpp(399): warning C4018: '<': signed/unsigned mismatch
+c:\users\bhgtulolle\desktop\school\algorithims and data structures\project_4\project_4\project_4.cpp(401): warning C4018: '<': signed/unsigned mismatch
+c:\users\bhgtulolle\desktop\school\algorithims and data structures\project_4\project_4\project_4.cpp(160): warning C4715: 'Graph::extractMin': not all control paths return a value
+  Project_4.vcxproj -> C:\Users\bhgtulolle\Desktop\School\Algorithims and Data Structures\Project_4\Debug\Project_4.exe
